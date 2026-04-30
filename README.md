@@ -62,25 +62,6 @@
 
 ---
 
-### GitHub stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kamilsevket&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=007AFF&text_color=C9D1D9&icon_color=007AFF" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilsevket&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=007AFF&text_color=C9D1D9" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=kamilsevket&hide_border=true&background=0D1117&stroke=007AFF&ring=007AFF&fire=F05138&currStreakLabel=007AFF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=kamilsevket&theme=onedark&no-bg=true&no-frame=true&row=1&column=7&margin-w=8" />
-
-</div>
-
----
-
 ### Reach me
 
 <div align="center">
