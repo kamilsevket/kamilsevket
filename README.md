@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://kamilsevket.com">
-    <img src="https://kamilsevket.com/og.png" alt="Kamil Şevket Demirtaş — iOS engineer in Izmir" width="720" />
+    <img src="https://kamilsevket.com/og.png?v=14" alt="Kamil Şevket Demirtaş — iOS engineer in Izmir" width="720" />
   </a>
 </p>
 
